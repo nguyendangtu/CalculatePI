@@ -19,7 +19,7 @@ import com.calculation.beans.CalculationConfiguration;
  * Provide calculation configuration
  * </p>
  * 
- * @author TUNGUYEN
+ * @author JOHN
  */
 @Service(value = "calculationConfiguration")
 public class CalculationConfigurationImpl implements CalculationConfiguration {
